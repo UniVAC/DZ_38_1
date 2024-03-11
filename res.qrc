@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>redDOWN.png</file>
+        <file>redUP.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>aa.mp3</file>
+    </qresource>
+</RCC>
